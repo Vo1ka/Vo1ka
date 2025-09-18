@@ -13,10 +13,10 @@
 
 <!-- Статистика -->
 <p align="center">
- <img height="160" src="https://streak-stats.demolab.com?user=Vo1ka&theme=radical&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
-</p>
+<!--  <img height="160" src="https://streak-stats.demolab.com?user=Vo1ka&theme=radical&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
+</p> -->
 <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vo1ka&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&title_color=FF6B6B" />
+<!--     <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vo1ka&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&title_color=FF6B6B" /> -->
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vo1ka&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6B6B" />
 </p>
 <h3>Featured проекты</h3>
