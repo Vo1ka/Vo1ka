@@ -13,10 +13,9 @@
 
 <!-- Статистика -->
 <p align="center">
-<!--  <img height="160" src="https://streak-stats.demolab.com?user=Vo1ka&theme=radical&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
-</p> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vo1ka&theme=highcontrast&border_radius=5&currStreakLabel=F4A000&dates=FFFF00&sideLabels=F000C2&border=FF6700&ring=FF7F11&stroke=FF7F11&fire=F00049" alt="GitHub Streak" /></a></p> 
 <p align="center">
-<!--     <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vo1ka&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&title_color=FF6B6B" /> -->
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vo1ka&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github&theme=radical&hide_border=true&title_color=FF6B6B" /> 
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vo1ka&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6B6B" />
 </p>
 <h3>Featured проекты</h3>
