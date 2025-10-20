@@ -40,5 +40,6 @@
     <img src="https://img.shields.io/badge/npm-Registry-CB3837?logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-Editor-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
+<img src="https://www.codewars.com/users/Volkeevich/badges/large" alt="codeWars" />
 <img src="https://github.com/Vo1ka/Vo1ka/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 
